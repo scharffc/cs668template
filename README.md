@@ -2,6 +2,7 @@
 
 Your first name / last name
 
+* [Remote the unecessary text once you begin working on your GitHub]
 * [Code will be available in this repo.]
 * [All writing needs to be done with care and reviewed several times. This GitHub should be used to present your work to recruiters.]
 * *This work was realized as part of the capstone project of the MS in Data Science at Pace University*

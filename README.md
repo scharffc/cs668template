@@ -11,4 +11,5 @@ Your first name / last name
   * The dataset is available here: [Add the link]
 * **Methodology:** Methodology used in the project with justification (to be completed at the end of the semester)
 * **Results:** Results obtained in the project with 1-2 charts / images (to be completed at the end of the semester)
+* **Limitations:** Limitation in the work
 * Poster (as an image)

@@ -1,6 +1,6 @@
 # Title of the project (very precise title with location and date for example)
 
-Your first name / last name
+Your first name and last name
 
 * [Remote the unecessary text once you begin working on your GitHub]
 * [Code will be available in this repo.]

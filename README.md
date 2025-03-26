@@ -1,4 +1,4 @@
-# Title of the project (very precise title)
+# Title of the project (very precise title with location and date for example)
 
 Your first name / last name
 
